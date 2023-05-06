@@ -1,0 +1,46 @@
+.container {
+	margin: 0 auto;
+	width: 400px;
+}
+
+h1 {
+	text-align: center;
+}
+
+input[type="text"] {
+	width: 80%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #45a049;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	padding: 12px;
+	border: 1px solid #ddd;
+	margin-bottom: -1px;
+}
+
+li:hover {
+	background-color: #f5f5f5;
+}
